@@ -1,0 +1,159 @@
+{
+  "pi": {
+    "name": "吴黎兵",
+    "title": "教授、博士生导师 / 实验室负责人",
+    "bio": "2006 年获武汉大学计算机科学博士学位，2011 年在美国肯塔基大学做访问学者，2017 年在纽约州立大学布法罗分校做高级访问学者。主要研究物联网、网络安全、机器学习和数据安全，在 IEEE TMC、TIFS、TDSC、INFOCOM、CVPR、SIGIR 等期刊和会议发表论文 100 余篇，曾入选全球前 2% 科学家榜单。现任 CCF 杰出会员、CCF 武汉主席（2025–2027）、CCF 网络与数据通信专委副主任、CCF 理事；曾任 CCF 教育专委秘书长、YOCSEF 武汉 2012–2013 年度主席。",
+    "honors": [
+      "IEEE Systems Journal 2019 年度最佳论文奖",
+      "中国互联网学术会议 ICoC 2016 最佳论文奖",
+      "湖北省自然科学奖二等奖（2021）",
+      "湖北省科技进步奖一等奖（2014）",
+      "国家级教学成果奖一等奖（2014）",
+      "湖北省五一劳动奖章（2008）、宝钢优秀教师奖（2010）"
+    ],
+    "email": "wu@whu.edu.cn",
+    "homepage": "https://cse.whu.edu.cn/info/3501/37761.htm"
+  },
+  "staff": [
+    {
+      "name": "王恩澍",
+      "title": "教授",
+      "research": "强化学习、车联网安全、自动驾驶安全、人工智能安全",
+      "bio": "纽约州立大学布法罗分校计算机科学与工程博士，入选国家海外高层次青年人才计划、湖北省高层次人才计划。在 JSAC、TMC、TITS、ICDCS 等期刊和会议发表论文 20 余篇，其中 3 篇获最佳论文奖、1 篇获杰出论文奖。",
+      "email": "wanges17@whu.edu.cn",
+      "homepage": "https://cse.whu.edu.cn/info/3501/37691.htm"
+    },
+    {
+      "name": "罗子越",
+      "title": "教授",
+      "research": "分布式系统资源调度、分布式机器学习与大模型训练系统",
+      "bio": "香港大学计算机科学博士，武汉大学学士。曾在美国俄亥俄州立大学任博士后和研究科学家。研究成果发表于 INFOCOM、MLSys、IEEE/ACM ToN、JSAC 等。",
+      "email": "",
+      "homepage": "https://ziyueluocs.github.io/"
+    },
+    {
+      "name": "石小川",
+      "title": "教授",
+      "research": "无线传感器网络、数据挖掘、机器学习、并行分布计算",
+      "bio": "武汉大学计算机系统结构博士。2012–2014 年在美国宾夕法尼亚州立大学做博士后，2009–2010 年在美国里海大学任研究助理。曾获第十一届湖北省社会科学优秀成果奖二等奖。",
+      "email": "shixiaochuan@whu.edu.cn",
+      "homepage": "https://cse.whu.edu.cn/info/3421/40431.htm"
+    },
+    {
+      "name": "王讷",
+      "title": "特聘副研究员、硕士生导师",
+      "research": "大模型 / MoE 系统优化、LLM Agent 调度与定价、大模型系统安全、云边计算",
+      "bio": "武汉大学计算机科学与技术博士。2023–2025 年先后在香港科技大学、香港理工大学从事博士后研究。以第一 / 通讯作者发表 CCF A 类论文 5 篇，成果见于 INFOCOM、JSAC、TMC、TC 等。",
+      "email": "ne.wang@whu.edu.cn",
+      "homepage": "https://cswangne.github.io/nwang/"
+    },
+    {
+      "name": "马超",
+      "title": "讲师",
+      "research": "联邦学习安全与隐私保护",
+      "bio": "",
+      "email": "",
+      "homepage": "https://cse.whu.edu.cn/info/3471/37671.htm"
+    }
+  ],
+  "postdocs": [],
+  "students": [
+    {
+      "name": "博士生 01",
+      "group": "博士研究生",
+      "grade": "2022级",
+      "research": "自动驾驶感知安全",
+      "photo": "images/people/sample-1.svg",
+      "homepage": "https://example.com/"
+    },
+    {
+      "name": "博士生 02",
+      "group": "博士研究生",
+      "grade": "2023级",
+      "research": "车联网通信安全",
+      "photo": "images/people/sample-2.svg",
+      "homepage": "https://example.com/"
+    },
+    {
+      "name": "博士生 03",
+      "group": "博士研究生",
+      "grade": "2024级",
+      "research": "联邦学习安全",
+      "photo": "",
+      "homepage": ""
+    },
+    {
+      "name": "博士生 04",
+      "group": "博士研究生",
+      "grade": "2025级",
+      "research": "车队协同决策",
+      "photo": "images/people/sample-4.svg",
+      "homepage": ""
+    },
+    {
+      "name": "硕士生 01",
+      "group": "硕士研究生",
+      "grade": "2024级",
+      "research": "联邦学习安全",
+      "photo": "images/people/sample-1.svg",
+      "homepage": "https://example.com/"
+    },
+    {
+      "name": "硕士生 02",
+      "group": "硕士研究生",
+      "grade": "2024级",
+      "research": "车队协同决策",
+      "photo": "",
+      "homepage": ""
+    },
+    {
+      "name": "硕士生 03",
+      "group": "硕士研究生",
+      "grade": "2025级",
+      "research": "大模型系统",
+      "photo": "images/people/sample-3.svg",
+      "homepage": "https://example.com/"
+    },
+    {
+      "name": "硕士生 04",
+      "group": "硕士研究生",
+      "grade": "2025级",
+      "research": "自动驾驶感知安全",
+      "photo": "images/people/sample-4.svg",
+      "homepage": ""
+    },
+    {
+      "name": "硕士生 05",
+      "group": "硕士研究生",
+      "grade": "2026级",
+      "research": "车联网通信安全",
+      "photo": "",
+      "homepage": ""
+    },
+    {
+      "name": "硕士生 06",
+      "group": "硕士研究生",
+      "grade": "2026级",
+      "research": "联邦学习安全",
+      "photo": "images/people/sample-2.svg",
+      "homepage": ""
+    },
+    {
+      "name": "本科生 01",
+      "group": "本科生（科研训练）",
+      "grade": "2023级",
+      "research": "自动驾驶感知安全",
+      "photo": "images/people/sample-3.svg",
+      "homepage": ""
+    },
+    {
+      "name": "本科生 02",
+      "group": "本科生（科研训练）",
+      "grade": "2023级",
+      "research": "车联网通信安全",
+      "photo": "",
+      "homepage": ""
+    }
+  ],
+  "studentsNote": "以下为示例数据：照片是占位头像，带 ↗ 的名字可以点击跳转主页（示例链接），正式名单整理后更新。"
+}

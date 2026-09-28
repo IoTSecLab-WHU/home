@@ -1,0 +1,853 @@
+{
+  "newsNote": "标有“示例”的条目为占位内容，学术类条目对应真实论文但日期为估计值，请逐条核实或替换。",
+  "news": [
+    {
+      "date": "2026-09-28",
+      "type": "招聘",
+      "title": "实验室招收博士后、博士生和硕士生",
+      "body": "欢迎对车联网与自动驾驶安全、AI 安全、联邦学习、数据安全、大模型系统优化与安全等方向感兴趣的同学和青年学者加入。详见“加入我们”。",
+      "pin": true,
+      "sample": false
+    },
+    {
+      "date": "2026-05",
+      "type": "学术",
+      "title": "团队论文被 ICML 2026 录用",
+      "body": "论文 The Latent Guardian 提出基于特征级一致性校验的方法，防御协同感知中的恶意攻击。",
+      "pin": false,
+      "sample": false
+    },
+    {
+      "date": "2026-02",
+      "type": "学术",
+      "title": "团队论文被 CVPR 2026 录用",
+      "body": "论文 All Vehicles Can Lie 研究在所有参与车辆都不可信的条件下，如何高效防御协同感知中的对抗攻击。",
+      "pin": false,
+      "sample": false
+    },
+    {
+      "date": "2025-11",
+      "type": "学术",
+      "title": "团队论文被 AAAI 2026 录用",
+      "body": "论文 CHDP 提出协作式混合扩散策略，用于参数化动作空间中的强化学习决策。",
+      "pin": false,
+      "sample": false
+    },
+    {
+      "date": "2025",
+      "type": "获奖",
+      "title": "吴黎兵教授当选 CCF 武汉主席（2025–2027）",
+      "body": "吴黎兵教授同时担任 CCF 网络与数据通信专委副主任、CCF 理事。",
+      "pin": false,
+      "sample": false
+    },
+    {
+      "date": "2026-08-23",
+      "type": "学术",
+      "title": "团队论文在 IEEE TIFS 发表",
+      "body": "论文《Heterogeneous Privacy-Preserving Federated Learning for Edge Intelligence》，第一作者 Zhuangzhuang Zhang。研究方向：联邦学习安全。",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2026-03-06",
+      "type": "学术",
+      "title": "团队论文在 IEEE TDSC 发表",
+      "body": "论文《Learning Behavior Consistency-Based Backdoor Defense for Federated Learning》，第一作者 Zhuangzhuang Zhang。研究方向：联邦学习安全。",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2026-08-12",
+      "type": "学术",
+      "title": "团队论文在 IEEE TDSC 发表",
+      "body": "论文《Efficient Dynamic Auditing Scheme for Cloud Data Sharing of Intelligent Connected Fleet》，第一作者 Jiaqi Feng。研究方向：车联网通信与数据安全。",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2026-03-05",
+      "type": "学术",
+      "title": "团队论文在 IEEE TVT 发表",
+      "body": "论文《LDSAV: Lightweight and Dynamically Scalable Authentication Key Agreement for Vehicle-Cloud Collaboration》，第一作者 Yu Zhao。研究方向：车联网通信与数据安全。",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2026-01-22",
+      "type": "学术",
+      "title": "团队论文在 IEEE TVT 发表",
+      "body": "论文《Triggering Phantom Obstacles: Black-Box Physical Adversarial Attacks Against MDE for Autonomous Vehicles》，第一作者 Taiyu Bao。研究方向：感知安全。",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2025-11-26",
+      "type": "学术",
+      "title": "团队论文在 CVPR 发表",
+      "body": "论文《Efficient and Robust Trajectory Prediction Attack in Autonomous Driving via Optimization-Driven Multi-Frame Perturbation Framework》，第一作者 Yi Yu。研究方向：感知安全。",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2025-10-23",
+      "type": "学术",
+      "title": "团队论文在 IEEE TMC 发表",
+      "body": "论文《PV-STR: An Efficient Pseudonym Verification Scheme With Spatial-Temporal Revocation in IoVs》，第一作者 Yajun Ma。研究方向：车联网通信与数据安全。",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2025-03-22",
+      "type": "学术",
+      "title": "团队论文在 IEEE TMC 发表",
+      "body": "论文《Cost-Efficient and Secure Federated Learning for Edge Computing》，第一作者 Zhuangzhuang Zhang。研究方向：联邦学习安全。",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2025-01-19",
+      "type": "学术",
+      "title": "团队论文在 IEEE TIFS 发表",
+      "body": "论文《Ascina: Efficient Proof of Retrievability for Industrial Cloud Storage Systems》，第一作者 Jiaqi Feng。研究方向：车联网通信与数据安全。",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2025-02-04",
+      "type": "学术",
+      "title": "团队论文在 IEEE TIFS 发表",
+      "body": "论文《NTTproofs: A Maintainable and Aggregatable Vector Commitment With Fast Openings and Updates》，第一作者 Lijuan Huo。研究方向：车联网通信与数据安全。",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2025-01-09",
+      "type": "学术",
+      "title": "团队论文在 ACM MM 发表",
+      "body": "论文《FedBAP: Backdoor Defense via Benign Adversarial Perturbation in Federated Learning》，第一作者 Xinhai Yan。研究方向：联邦学习安全。",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2025-04-22",
+      "type": "学术",
+      "title": "团队论文在 IEEE TITS 发表",
+      "body": "论文《A Highly Transferable Camouflage Attack Against Object Detectors in the Physical World》，第一作者 Yizhou Wang。研究方向：感知安全。",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2025-01-27",
+      "type": "学术",
+      "title": "团队论文在 IEEE TII 发表",
+      "body": "论文《Secure Federated Learning for Cloud-Fog Automation: Vulnerabilities, Challenges, Solutions, and Future Directions》，第一作者 Zhuangzhuang Zhang。研究方向：联邦学习安全。",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2025-08-13",
+      "type": "学术",
+      "title": "团队论文在 IEEE TVT 发表",
+      "body": "论文《APC: Adaptive Platoon Control Scheme for Urban Traffic Signal Intersections》，第一作者 Yijun Pu。研究方向：智能决策。",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2024-06-18",
+      "type": "学术",
+      "title": "团队论文在 IEEE TIFS 发表",
+      "body": "论文《Libras: A Fair, Secure, Verifiable and Scalable Outsourcing Computing Scheme Based on Blockchain》，第一作者 Lijuan Huo。研究方向：车联网通信与数据安全。",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2023-03-24",
+      "type": "学术",
+      "title": "团队论文在 IEEE TIFS 发表",
+      "body": "论文《LSFL: A Lightweight and Secure Federated Learning Scheme for Edge Computing》，第一作者 Zhuangzhuang Zhang。研究方向：联邦学习安全。",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2022-10-16",
+      "type": "学术",
+      "title": "团队论文在 IEEE TNSM 发表",
+      "body": "论文《G-VCFL: Grouped Verifiable Chained Privacy-Preserving Federated Learning》，第一作者 Zhuangzhuang Zhang。研究方向：联邦学习安全。",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2023-03-20",
+      "type": "招聘",
+      "title": "实验室招收 2024 级博士研究生（申请-考核制）",
+      "body": "具体要求与申请方式见“加入我们”。（示例条目，请替换为真实招聘信息）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2023-05-05",
+      "type": "招聘",
+      "title": "实验室 2024 年优秀大学生暑期夏令营报名开始",
+      "body": "具体要求与申请方式见“加入我们”。（示例条目，请替换为真实招聘信息）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2023-07-25",
+      "type": "招聘",
+      "title": "实验室接收 2024 级推免硕士研究生",
+      "body": "具体要求与申请方式见“加入我们”。（示例条目，请替换为真实招聘信息）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2023-09-11",
+      "type": "招聘",
+      "title": "实验室招聘科研助理 2 名（车联网安全方向）",
+      "body": "具体要求与申请方式见“加入我们”。（示例条目，请替换为真实招聘信息）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2023-10-13",
+      "type": "招聘",
+      "title": "实验室招聘博士后（自动驾驶感知安全方向）",
+      "body": "具体要求与申请方式见“加入我们”。（示例条目，请替换为真实招聘信息）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2023-11-27",
+      "type": "招聘",
+      "title": "实验室招聘博士后（大模型系统优化与安全方向）",
+      "body": "具体要求与申请方式见“加入我们”。（示例条目，请替换为真实招聘信息）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2024-03-10",
+      "type": "招聘",
+      "title": "欢迎本科生加入实验室参与大创项目（2025 年春季）",
+      "body": "具体要求与申请方式见“加入我们”。（示例条目，请替换为真实招聘信息）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2024-05-19",
+      "type": "招聘",
+      "title": "实验室招聘软件开发工程师 1 名（平台建设）",
+      "body": "具体要求与申请方式见“加入我们”。（示例条目，请替换为真实招聘信息）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2024-07-12",
+      "type": "招聘",
+      "title": "实验室招收 2025 级博士研究生（申请-考核制）",
+      "body": "具体要求与申请方式见“加入我们”。（示例条目，请替换为真实招聘信息）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2024-09-03",
+      "type": "招聘",
+      "title": "实验室 2025 年优秀大学生暑期夏令营报名开始",
+      "body": "具体要求与申请方式见“加入我们”。（示例条目，请替换为真实招聘信息）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2024-10-05",
+      "type": "招聘",
+      "title": "实验室接收 2025 级推免硕士研究生",
+      "body": "具体要求与申请方式见“加入我们”。（示例条目，请替换为真实招聘信息）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2024-11-21",
+      "type": "招聘",
+      "title": "实验室招聘科研助理 2 名（车联网安全方向）",
+      "body": "具体要求与申请方式见“加入我们”。（示例条目，请替换为真实招聘信息）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2025-03-27",
+      "type": "招聘",
+      "title": "实验室招聘博士后（自动驾驶感知安全方向）",
+      "body": "具体要求与申请方式见“加入我们”。（示例条目，请替换为真实招聘信息）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2025-05-06",
+      "type": "招聘",
+      "title": "实验室招聘博士后（大模型系统优化与安全方向）",
+      "body": "具体要求与申请方式见“加入我们”。（示例条目，请替换为真实招聘信息）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2025-07-15",
+      "type": "招聘",
+      "title": "欢迎本科生加入实验室参与大创项目（2026 年春季）",
+      "body": "具体要求与申请方式见“加入我们”。（示例条目，请替换为真实招聘信息）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2025-09-06",
+      "type": "招聘",
+      "title": "实验室招聘软件开发工程师 1 名（平台建设）",
+      "body": "具体要求与申请方式见“加入我们”。（示例条目，请替换为真实招聘信息）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2025-10-12",
+      "type": "招聘",
+      "title": "实验室招收 2026 级博士研究生（申请-考核制）",
+      "body": "具体要求与申请方式见“加入我们”。（示例条目，请替换为真实招聘信息）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2025-11-15",
+      "type": "招聘",
+      "title": "实验室 2026 年优秀大学生暑期夏令营报名开始",
+      "body": "具体要求与申请方式见“加入我们”。（示例条目，请替换为真实招聘信息）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2026-03-05",
+      "type": "招聘",
+      "title": "实验室接收 2027 级推免硕士研究生",
+      "body": "具体要求与申请方式见“加入我们”。（示例条目，请替换为真实招聘信息）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2026-05-03",
+      "type": "招聘",
+      "title": "实验室招聘科研助理 2 名（车联网安全方向）",
+      "body": "具体要求与申请方式见“加入我们”。（示例条目，请替换为真实招聘信息）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2026-07-24",
+      "type": "招聘",
+      "title": "实验室招聘博士后（自动驾驶感知安全方向）",
+      "body": "具体要求与申请方式见“加入我们”。（示例条目，请替换为真实招聘信息）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2023-01-03",
+      "type": "获奖",
+      "title": "祝贺博士生 01 获博士研究生国家奖学金",
+      "body": "（示例条目，请替换为真实获奖信息）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2023-04-09",
+      "type": "获奖",
+      "title": "祝贺硕士生 02 获硕士研究生国家奖学金",
+      "body": "（示例条目，请替换为真实获奖信息）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2023-06-09",
+      "type": "获奖",
+      "title": "祝贺团队获全国大学生信息安全竞赛一等奖",
+      "body": "（示例条目，请替换为真实获奖信息）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2023-09-04",
+      "type": "获奖",
+      "title": "祝贺博士生 04 同学获武汉大学优秀博士学位论文",
+      "body": "（示例条目，请替换为真实获奖信息）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2023-11-18",
+      "type": "获奖",
+      "title": "祝贺团队论文获国际会议最佳论文奖",
+      "body": "（示例条目，请替换为真实获奖信息）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2023-12-15",
+      "type": "获奖",
+      "title": "祝贺硕士生 06 同学获评武汉大学优秀研究生",
+      "body": "（示例条目，请替换为真实获奖信息）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2024-01-25",
+      "type": "获奖",
+      "title": "祝贺团队在网络安全攻防大赛中获得二等奖",
+      "body": "（示例条目，请替换为真实获奖信息）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2024-04-15",
+      "type": "获奖",
+      "title": "祝贺硕士生 08 同学获学院学术创新奖",
+      "body": "（示例条目，请替换为真实获奖信息）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2024-06-16",
+      "type": "获奖",
+      "title": "祝贺博士生 09 获博士研究生国家奖学金",
+      "body": "（示例条目，请替换为真实获奖信息）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2024-09-05",
+      "type": "获奖",
+      "title": "祝贺硕士生 01 获硕士研究生国家奖学金",
+      "body": "（示例条目，请替换为真实获奖信息）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2024-11-21",
+      "type": "获奖",
+      "title": "祝贺团队获全国大学生信息安全竞赛一等奖",
+      "body": "（示例条目，请替换为真实获奖信息）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2024-12-23",
+      "type": "获奖",
+      "title": "祝贺博士生 03 同学获武汉大学优秀博士学位论文",
+      "body": "（示例条目，请替换为真实获奖信息）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2025-01-09",
+      "type": "获奖",
+      "title": "祝贺团队论文获国际会议最佳论文奖",
+      "body": "（示例条目，请替换为真实获奖信息）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2025-04-27",
+      "type": "获奖",
+      "title": "祝贺硕士生 05 同学获评武汉大学优秀研究生",
+      "body": "（示例条目，请替换为真实获奖信息）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2025-06-24",
+      "type": "获奖",
+      "title": "祝贺团队在网络安全攻防大赛中获得二等奖",
+      "body": "（示例条目，请替换为真实获奖信息）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2025-09-11",
+      "type": "获奖",
+      "title": "祝贺硕士生 07 同学获学院学术创新奖",
+      "body": "（示例条目，请替换为真实获奖信息）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2025-11-13",
+      "type": "获奖",
+      "title": "祝贺博士生 08 获博士研究生国家奖学金",
+      "body": "（示例条目，请替换为真实获奖信息）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2025-12-05",
+      "type": "获奖",
+      "title": "祝贺硕士生 09 获硕士研究生国家奖学金",
+      "body": "（示例条目，请替换为真实获奖信息）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2026-01-12",
+      "type": "获奖",
+      "title": "祝贺团队获全国大学生信息安全竞赛一等奖",
+      "body": "（示例条目，请替换为真实获奖信息）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2026-04-13",
+      "type": "获奖",
+      "title": "祝贺博士生 02 同学获武汉大学优秀博士学位论文",
+      "body": "（示例条目，请替换为真实获奖信息）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2026-06-03",
+      "type": "获奖",
+      "title": "祝贺团队论文获国际会议最佳论文奖",
+      "body": "（示例条目，请替换为真实获奖信息）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2023-02-16",
+      "type": "通知",
+      "title": "实验室 2023 年秋季学期组会安排",
+      "body": "（示例条目，请替换为真实通知）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2023-03-27",
+      "type": "通知",
+      "title": "2023 级研究生开题报告会通知",
+      "body": "（示例条目，请替换为真实通知）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2023-06-06",
+      "type": "通知",
+      "title": "实验室服务器与 GPU 集群使用规范更新",
+      "body": "（示例条目，请替换为真实通知）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2023-08-07",
+      "type": "通知",
+      "title": "2023 届研究生学位论文预答辩安排",
+      "body": "（示例条目，请替换为真实通知）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2023-09-10",
+      "type": "通知",
+      "title": "实验室 2023 年寒假安全与值班安排",
+      "body": "（示例条目，请替换为真实通知）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2023-12-25",
+      "type": "通知",
+      "title": "实验室新生入组培训通知",
+      "body": "（示例条目，请替换为真实通知）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2024-02-06",
+      "type": "通知",
+      "title": "实验室文献分享会时间调整",
+      "body": "（示例条目，请替换为真实通知）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2024-03-03",
+      "type": "通知",
+      "title": "关于提交 2024 年度科研成果统计的通知",
+      "body": "（示例条目，请替换为真实通知）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2024-06-04",
+      "type": "通知",
+      "title": "实验室 2024 年秋季学期组会安排",
+      "body": "（示例条目，请替换为真实通知）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2024-08-17",
+      "type": "通知",
+      "title": "2024 级研究生开题报告会通知",
+      "body": "（示例条目，请替换为真实通知）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2024-09-18",
+      "type": "通知",
+      "title": "实验室服务器与 GPU 集群使用规范更新",
+      "body": "（示例条目，请替换为真实通知）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2024-12-08",
+      "type": "通知",
+      "title": "2024 届研究生学位论文预答辩安排",
+      "body": "（示例条目，请替换为真实通知）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2025-02-24",
+      "type": "通知",
+      "title": "实验室 2025 年寒假安全与值班安排",
+      "body": "（示例条目，请替换为真实通知）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2025-03-20",
+      "type": "通知",
+      "title": "实验室新生入组培训通知",
+      "body": "（示例条目，请替换为真实通知）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2025-06-09",
+      "type": "通知",
+      "title": "实验室文献分享会时间调整",
+      "body": "（示例条目，请替换为真实通知）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2025-08-17",
+      "type": "通知",
+      "title": "关于提交 2025 年度科研成果统计的通知",
+      "body": "（示例条目，请替换为真实通知）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2025-09-19",
+      "type": "通知",
+      "title": "实验室 2025 年秋季学期组会安排",
+      "body": "（示例条目，请替换为真实通知）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2025-12-09",
+      "type": "通知",
+      "title": "2025 级研究生开题报告会通知",
+      "body": "（示例条目，请替换为真实通知）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2026-02-26",
+      "type": "通知",
+      "title": "实验室服务器与 GPU 集群使用规范更新",
+      "body": "（示例条目，请替换为真实通知）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2026-03-27",
+      "type": "通知",
+      "title": "2026 届研究生学位论文预答辩安排",
+      "body": "（示例条目，请替换为真实通知）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2026-06-07",
+      "type": "通知",
+      "title": "实验室 2026 年寒假安全与值班安排",
+      "body": "（示例条目，请替换为真实通知）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2023-04-16",
+      "type": "活动",
+      "title": "团队师生参加 CCF 中国网络大会并作报告",
+      "body": "（示例条目，请替换为真实活动报道）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2023-05-23",
+      "type": "活动",
+      "title": "海外学者来访实验室并作学术报告",
+      "body": "（示例条目，请替换为真实活动报道）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2023-07-15",
+      "type": "活动",
+      "title": "团队赴合作企业交流智能网联汽车安全测试",
+      "body": "（示例条目，请替换为真实活动报道）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2023-10-06",
+      "type": "活动",
+      "title": "实验室举办车联网安全前沿研讨会",
+      "body": "（示例条目，请替换为真实活动报道）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2023-11-15",
+      "type": "活动",
+      "title": "团队师生参加 IEEE INFOCOM 并报告论文",
+      "body": "（示例条目，请替换为真实活动报道）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2023-12-16",
+      "type": "活动",
+      "title": "实验室与合作单位召开项目年度推进会",
+      "body": "（示例条目，请替换为真实活动报道）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2024-04-09",
+      "type": "活动",
+      "title": "实验室 2024 年迎新暨学术交流会",
+      "body": "（示例条目，请替换为真实活动报道）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2024-05-03",
+      "type": "活动",
+      "title": "团队参加国家重点研发计划项目中期检查",
+      "body": "（示例条目，请替换为真实活动报道）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2024-07-11",
+      "type": "活动",
+      "title": "团队师生参加 CCF 中国网络大会并作报告",
+      "body": "（示例条目，请替换为真实活动报道）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2024-10-21",
+      "type": "活动",
+      "title": "海外学者来访实验室并作学术报告",
+      "body": "（示例条目，请替换为真实活动报道）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2024-11-12",
+      "type": "活动",
+      "title": "团队赴合作企业交流智能网联汽车安全测试",
+      "body": "（示例条目，请替换为真实活动报道）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2024-12-03",
+      "type": "活动",
+      "title": "实验室举办车联网安全前沿研讨会",
+      "body": "（示例条目，请替换为真实活动报道）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2025-04-09",
+      "type": "活动",
+      "title": "团队师生参加 IEEE INFOCOM 并报告论文",
+      "body": "（示例条目，请替换为真实活动报道）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2025-05-08",
+      "type": "活动",
+      "title": "实验室与合作单位召开项目年度推进会",
+      "body": "（示例条目，请替换为真实活动报道）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2025-07-15",
+      "type": "活动",
+      "title": "实验室 2025 年迎新暨学术交流会",
+      "body": "（示例条目，请替换为真实活动报道）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2025-10-22",
+      "type": "活动",
+      "title": "团队参加国家重点研发计划项目中期检查",
+      "body": "（示例条目，请替换为真实活动报道）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2025-11-23",
+      "type": "活动",
+      "title": "团队师生参加 CCF 中国网络大会并作报告",
+      "body": "（示例条目，请替换为真实活动报道）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2025-12-21",
+      "type": "活动",
+      "title": "海外学者来访实验室并作学术报告",
+      "body": "（示例条目，请替换为真实活动报道）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2026-04-06",
+      "type": "活动",
+      "title": "团队赴合作企业交流智能网联汽车安全测试",
+      "body": "（示例条目，请替换为真实活动报道）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2026-05-04",
+      "type": "活动",
+      "title": "实验室举办车联网安全前沿研讨会",
+      "body": "（示例条目，请替换为真实活动报道）",
+      "pin": false,
+      "sample": true
+    },
+    {
+      "date": "2026-07-07",
+      "type": "活动",
+      "title": "团队师生参加 IEEE INFOCOM 并报告论文",
+      "body": "（示例条目，请替换为真实活动报道）",
+      "pin": false,
+      "sample": true
+    }
+  ]
+}
